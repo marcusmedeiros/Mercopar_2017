@@ -1,3 +1,3 @@
 # Mercopar_2017
-FOI!!!
-#PepeJaTireiAVela 
+
+#Aplicação desenvolvida em conjunto a robótica Marista para a Mercopar 2017
